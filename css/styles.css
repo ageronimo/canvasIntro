@@ -1,0 +1,10 @@
+.block {
+	height: 100px;
+	width: 200px;
+	border: 1px solid salmon;
+}
+
+#scream {
+	width: 250px;
+	height: 150px;
+}
